@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**prachanda980/prachanda980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Prachanda Oli** – Data Scientist & AI/ML Enthusiast from Nepal  
+prachanda980  
 
-Here are some ideas to get you started:
+- 🌱 Currently learning **Machine Learning, Deep Learning, and AI applications**  
+- 💬 Ask me about **Python, SQL/PostgreSQL, Machine Learning**  
+- 📫 How to reach me: **woliprachanda980@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+**Languages:** Python, SQL, JavaScript, C#  
+**Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn  
+**Databases:** PostgreSQL, MySQL, SQL Server  
+**Tools:** Git, Docker, Jupyter Notebook, VS Code  
+
+### Projects
+- **Tour Recommendation System** – Python, Django, Scikit-learn  
+- **Walmart Sales Analytics Dashboard** – Python, FastAPI, Docker, PostgreSQL  
+
+### Certifications
+- SQL Intermediate – HackerRank  
+- Python for Data Science – Coursera  
