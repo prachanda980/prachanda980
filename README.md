@@ -14,10 +14,10 @@
 
 ### 👨‍💻 About Me
 
-I am a backend engineer based in **Kathmandu, Nepal**, specializing in building robust, scalable systems using **Python (Django, FastAPI)** and **.NET Core**. I have a proven track record of leading agile teams and optimizing database queries for high-traffic applications.
+I am a **Tech Enthusiast** and backend engineer based in **Kathmandu, Nepal**, specializing in building robust, scalable systems using **Python (Django, FastAPI)** and **.NET Core**. I have a proven track record of leading agile teams and optimizing database queries for high-traffic applications.
 
-- 🔭 I’m currently working on **System Design & Advanced Data Structures**.
-- 🚀 I specialize in **Redis caching, Celery async tasks, and SQL optimization**.
+- 🌱 I am a learner of **System Design and ADS** (Algorithms & Data Structures).
+- 🚀 I am a passionate **Self-Learner** focused on **Backend and ML**.
 - ⚡ **Fun fact:** I love finding "Moneyball" style insights in sports data!
 
 ---
@@ -52,33 +52,6 @@ I am a backend engineer based in **Kathmandu, Nepal**, specializing in building 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
-
----
-
-### 💼 Professional Experience
-
-#### **Backend Developer Trainee (Team Lead)** @ *Bajra Technologies*
-*(March 2025 – June 2025)*
-* 🏆 **Leadership:** Led a 12-member agile team to deliver the BTP Game project **2 weeks ahead of schedule**.
-* ⚡ **Optimization:** Reduced PostgreSQL query execution time by **20–30%** through indexing and ORM refactoring.
-* 🛠 **Engineering:** Developed 12 custom Odoo modules and 8 production-grade REST APIs.
-
-#### **.NET Developer** @ *AMNIL Technologies Pvt. Ltd.*
-*(March 2024 – May 2024)*
-* 🖥 **Development:** Built robust desktop applications (WinForms, MVC) for enterprise data management.
-* 🚀 **Performance:** Achieved a **10% improvement** in response times by optimizing SQL Server queries.
-* ⚙️ **Logic:** Implemented complex business logic using Entity Framework (EF Core) and ADO.NET.
-
----
-
-### 🧩 Featured Projects
-
-| Project | Stack | Key Highlights |
-| :--- | :--- | :--- |
-| **High-Performance E-Commerce** | Django, Redis, Celery | • Zero overselling via **atomic transactions**.<br>• Real-time stock updates via **WebSockets**.<br>• Content-based recommendation engine. |
-| **IMDb Clone API** | DRF, Redis, Celery | • **Sub-millisecond read times** via Redis caching.<br>• Optimized ORM queries using `prefetch_related`.<br>• Dockerized deployment. |
-| **Real-Time Messenger** | Django Channels, ASGI | • Full-duplex chat with persistent history.<br>• Real-time typing indicators & online status.<br>• Event-driven notification architecture. |
-| **NPL 2024 Data Analysis** | Python, Pandas | • Visualized team spending efficiency and player value.<br>• Processed complex datasets to identify "Moneyball" insights. |
 
 ---
 
